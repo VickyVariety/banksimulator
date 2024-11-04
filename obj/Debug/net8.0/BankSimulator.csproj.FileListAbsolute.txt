@@ -1,0 +1,14 @@
+C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\bin\Debug\net8.0\BankSimulator.exe
+C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\bin\Debug\net8.0\BankSimulator.deps.json
+C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\bin\Debug\net8.0\BankSimulator.runtimeconfig.json
+C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\bin\Debug\net8.0\BankSimulator.dll
+C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\bin\Debug\net8.0\BankSimulator.pdb
+C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\obj\Debug\net8.0\BankSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\obj\Debug\net8.0\BankSimulator.AssemblyInfoInputs.cache
+C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\obj\Debug\net8.0\BankSimulator.AssemblyInfo.cs
+C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\obj\Debug\net8.0\BankSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\obj\Debug\net8.0\BankSimulator.dll
+C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\obj\Debug\net8.0\refint\BankSimulator.dll
+C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\obj\Debug\net8.0\BankSimulator.pdb
+C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\obj\Debug\net8.0\BankSimulator.genruntimeconfig.cache
+C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\obj\Debug\net8.0\ref\BankSimulator.dll

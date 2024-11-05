@@ -12,3 +12,4 @@ C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\obj\Debug
 C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\obj\Debug\net8.0\BankSimulator.pdb
 C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\obj\Debug\net8.0\BankSimulator.genruntimeconfig.cache
 C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\obj\Debug\net8.0\ref\BankSimulator.dll
+C:\Users\Tonys\OneDrive\Desktop\Uppgift2 - Banksimulator\BankSimulator\obj\Debug\net8.0\BankSimulator.sourcelink.json
